@@ -1,0 +1,22 @@
+# Levent Et
+
+> Levent Et, Sakarya Serdivan Kazımpaşa'da bulunan; açık büfe kahvaltı, közde mangal et çeşitleri ve döner sunan bir restorandır. Rezervasyon ve bilgi için 0544 272 11 44.
+
+## Hakkında
+- Tür: Restoran (et lokantası, açık büfe kahvaltı, döner)
+- Konum: Kazımpaşa Mah. 18 Nisan Cad., Serdivan / Sakarya, Türkiye
+- Koordinatlar: 40.796183, 30.276327
+- Telefon: +90 544 272 11 44
+- Instagram: https://www.instagram.com/levent_et/
+
+## Önemli Sayfalar
+- [Anasayfa](https://www.leventet.com.tr/): Genel tanıtım ve rezervasyon.
+- [Menü](https://www.leventet.com.tr/menu): Et, kahvaltı ve döner seçkileri.
+- [Açık Büfe Kahvaltı](https://www.leventet.com.tr/kahvalti): Kahvaltı detayları.
+- [Hakkımızda](https://www.leventet.com.tr/hakkimizda): Mekân ve mutfak anlayışı, SSS.
+- [İletişim](https://www.leventet.com.tr/iletisim): Adres, telefon, harita ve yol tarifi.
+
+## Notlar
+- Rezervasyon: web formu, telefon veya WhatsApp ile yapılır.
+- Güncel menü ve fiyatlar için telefonla bilgi alınabilir.
+- Hizmet bölgesi: Serdivan, Sakarya ve çevresi.
